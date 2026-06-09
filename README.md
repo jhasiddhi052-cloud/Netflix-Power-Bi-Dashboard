@@ -11,4 +11,4 @@ Interactive Power BI dashboard analyzing Netflix Movie and TV show, genres, rati
 - Genre analysis
 - Release Year Trends
 - Country wise content distribution
-## Dashbord Preview
+
